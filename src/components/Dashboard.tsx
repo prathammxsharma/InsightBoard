@@ -10,7 +10,6 @@ import {
 import { MetricCard } from './ui/MetricCard'
 import { Badge } from './ui/Badge'
 import { Button } from './ui/Button'
-import { cn } from '../lib/utils'
 
 const metrics = [
   {
